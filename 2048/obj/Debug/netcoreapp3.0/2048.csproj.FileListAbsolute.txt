@@ -1,0 +1,11 @@
+D:\Программирование\C#\Консоль\Задание №5\2048\2048\bin\Debug\netcoreapp3.0\2048.exe
+D:\Программирование\C#\Консоль\Задание №5\2048\2048\bin\Debug\netcoreapp3.0\2048.deps.json
+D:\Программирование\C#\Консоль\Задание №5\2048\2048\bin\Debug\netcoreapp3.0\2048.runtimeconfig.json
+D:\Программирование\C#\Консоль\Задание №5\2048\2048\bin\Debug\netcoreapp3.0\2048.runtimeconfig.dev.json
+D:\Программирование\C#\Консоль\Задание №5\2048\2048\bin\Debug\netcoreapp3.0\2048.dll
+D:\Программирование\C#\Консоль\Задание №5\2048\2048\bin\Debug\netcoreapp3.0\2048.pdb
+D:\Программирование\C#\Консоль\Задание №5\2048\2048\obj\Debug\netcoreapp3.0\2048.csprojAssemblyReference.cache
+D:\Программирование\C#\Консоль\Задание №5\2048\2048\obj\Debug\netcoreapp3.0\2048.AssemblyInfoInputs.cache
+D:\Программирование\C#\Консоль\Задание №5\2048\2048\obj\Debug\netcoreapp3.0\2048.AssemblyInfo.cs
+D:\Программирование\C#\Консоль\Задание №5\2048\2048\obj\Debug\netcoreapp3.0\2048.dll
+D:\Программирование\C#\Консоль\Задание №5\2048\2048\obj\Debug\netcoreapp3.0\2048.pdb
